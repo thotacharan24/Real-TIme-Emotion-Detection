@@ -74,7 +74,7 @@ To run the application locally, follow these commands:
 Have questions or suggestions? Reach out to us:
 
 - **Email:** [thotacharan249@gmail.com]
-- **LinkedIn:** [@TechyCSR](https://www.linkedin.com/in/thotacharan)
+- **LinkedIn:** [@thotacharan](https://www.linkedin.com/in/thotacharan)
 
 
 ---
