@@ -90,7 +90,4 @@ Have questions or suggestions? Reach out to us:
 ## 🛡️ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
----
-
-### 🌟 Support
-If you like this project, give it a ⭐ on [GitHub](https://github.com/TechyCSR/real-time-emotion-detection)! Feel free to contribute or open issues for improvements.
+-
