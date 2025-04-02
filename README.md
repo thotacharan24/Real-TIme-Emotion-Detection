@@ -74,10 +74,8 @@ To run the application locally, follow these commands:
 ## 📞 Contact Us
 Have questions or suggestions? Reach out to us:
 
-- **Web:** [TechyCSR Projects](https://projects.techycsr.me)
-- **Email:** [csr.info.in@gmail.com](mailto:csr.info.in@gmail.com)
-- **X (Twitter):** [@TechyCSR](https://twitter.com/TechyCSR)
-- **LinkedIn:** [@TechyCSR](https://www.linkedin.com/in/techycsr)
+- **Email:** [thotacharan249@gmail.com]
+- **LinkedIn:** [@TechyCSR](https://www.linkedin.com/in/thotacharan)
 
 
 ---
