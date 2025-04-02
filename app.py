@@ -203,7 +203,7 @@ def run_emotion_detection():
 
 def explore_projects():
     st.header("🔍 Explore Projects")
-    st.write("We develop cutting-edge projects in AI, ML, and more. Visit our [project page](https://projects.techycsr.me) to learn more.")
+    st.write("We develop cutting-edge projects in AI, ML, and more. Visit our [project page](https://github.com/thotacharan24/Real-TIme-Emotion-Detection) to learn more.")
 
 def about_section():
     st.subheader("📚 About This Application")
@@ -214,13 +214,13 @@ def about_section():
     st.markdown("""
     <div class="icons" style="display: flex; justify-content: center; gap: 40px;">
         <div class="icon">
-            <a href="https://github.com/your-repo" target="_blank">
+            <a href="https://github.com/thotacharan24/Real-TIme-Emotion-Detection" target="_blank">
                 <img src="https://i.ibb.co/fYynxNn/git.png" alt="GitHub" width="100px" height="100px">
                 GitHub
             </a>
         </div>
         <div class="icon">
-            <a href="https://www.linkedin.com/in/techycsr" target="_blank">
+            <a href="https://www.linkedin.com/in/charan-thota" target="_blank">
                 <img src="https://i.ibb.co/RBsm6TR/image.png" alt="LinkedIn" width="40px" height="40px">
                 LinkedIn
             </a>
@@ -264,8 +264,8 @@ def about_section():
 def footer():
     st.markdown("""
         <div class="footer">
-            Crafted with ❤️ by <a href="https://techycsr.me">@TechyCSR</a>.
-        </div>
+            Crafted with ❤️ THOTA CHARAN by.
+         </div>
     """, unsafe_allow_html=True)
 
 # Main Application Runner
